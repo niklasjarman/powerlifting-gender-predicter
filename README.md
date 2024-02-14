@@ -8,3 +8,4 @@ The Powerlifting Gender Predictor is a machine learning project that predicts th
 ## Dataset
 
 The project relies on a dataset containing information about powerlifters, including their best deadlift, squat, and bench press performances, along with gender.
+You can find it here: https://www.kaggle.com/datasets/open-powerlifting/powerlifting-database
